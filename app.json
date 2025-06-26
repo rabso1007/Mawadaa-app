@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "MowadaApp",
+    "slug": "mowada-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "web"],
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      // يمكنك إضافة adaptiveIcon لاحقًا بعد رفع الصور إلى assets
+    },
+    "web": {
+      // يمكنك إضافة favicon لاحقًا بعد رفعه إلى assets
+    }
+  }
+  }
